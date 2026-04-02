@@ -20,6 +20,6 @@ If no funds are available, it could display:
 If some funds remain, it could display:
 "Insufficient Funds"
  "Use Remaining Balance?"
- "YES ⃝, NO x"
+"YES ◯, NO ✕"
 
 This design would better utilize the terminal’s **Affordances** (visual or physical cues that suggest how to interact with the system), such as the green button for confirmation and the red button for cancellation. It would also improve **Mapping** (the relationship between controls and their outcomes), as the symbols (○ and ×) clearly correspond to the button functions, making the interaction more intuitive.
