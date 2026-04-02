@@ -14,12 +14,14 @@ This experience ultimately required three separate transactions. The system's **
 I believe that this interaction could be improved by replacing the generic "Declined" message with more informative actionable feedback. Instead of displaying only “Declined,” the system could present one of two messages depending on the situation.
 
 If no funds are available, it could display:
-“Declined"
-"Use another payment method.”
+
+ “Declined"
+ "Use another payment method.”
 
 If some funds remain, it could display:
+
 "Insufficient Funds"
  "Use Remaining Balance?"
-"YES ◯, NO ✕"
+ "YES ◯, NO ✕"
 
 This design would better utilize the terminal’s **Affordances** (visual or physical cues that suggest how to interact with the system), such as the green button for confirmation and the red button for cancellation. It would also improve **Mapping** (the relationship between controls and their outcomes), as the symbols (○ and ×) clearly correspond to the button functions, making the interaction more intuitive.
