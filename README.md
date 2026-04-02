@@ -5,4 +5,4 @@
 ## My name is a Abram Jimenez and I'm majoring in computer scince with a minor in computer engeneering. In the future I'd like to write software for embeded sytems in agriculture. My hobies include golfing, offroading, and gaming!
 
 ## UX Journal
-[Journals](Journals/journal1.md)
+[Using Remaining SNAP Balance at Checkout](Journals/journal1.md)
